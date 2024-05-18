@@ -54,11 +54,17 @@
    "Castlevania: Aria of Sorrow":{
       "icon":"https://i.imgur.com/0ZhiGbI.png"
    },
+   "Castlevania: Circle of the Moon":{
+      "icon":"https://i.imgur.com/xYTVbRG.png"
+   },
    "Castlevania: Dawn of Sorrow":{
       "icon":"https://i.imgur.com/8nplboG.png"
    },
    "Castlevania II: Simon's Quest":{
       "icon":"https://i.imgur.com/wN1vswd.png"
+   },
+   "Castlevania: Portrait of Ruin":{
+      "icon":"https://i.imgur.com/SNAHeAi.png"
    },
    "Cave Story":{
       "icon":"https://i.imgur.com/11nLmKz.png"
@@ -159,8 +165,14 @@
    "Doom (1993)":{
       "icon":"https://i.imgur.com/ykeSbhG.png"
    },
+   "Double Dragon":{
+      "icon":"https://i.imgur.com/UFno90d.png"
+   },
    "DuckTales":{
       "icon":"https://i.imgur.com/Lle6c9e.png"
+   },
+   "EarthBound":{
+      "icon":"https://i.imgur.com/Tvw8cMe.png"
    },
    "Earthworm Jim":{
       "icon":"https://i.imgur.com/KnnxCT8.png"
@@ -231,6 +243,9 @@
    "Grand Theft Auto: Vice City":{
       "icon":"https://i.imgur.com/BUwWuud.png"
    },
+   "Gremlins 2: The New Batch":{
+      "icon":"https://i.imgur.com/Aa2kNYq.png"
+   },
    "Gyakuten Kenji 2":{
       "icon":"https://i.imgur.com/VOTPzgT.png"
    },
@@ -240,6 +255,12 @@
    },
    "Hotel Mario":{
       "icon":"https://i.imgur.com/Nlt3RHU.png"
+   },
+   "Iggy's Reckin' Balls":{
+      "icon":"https://i.imgur.com/7r3i457.png"
+   },
+   "Impossible Creatures":{
+      "icon":"https://i.imgur.com/WDRr1Bg.png"
    },
    "International Superstar Soccer 64":{
       "icon":"https://i.imgur.com/jz3SO5d.png",
@@ -265,6 +286,9 @@
    },
    "Kirby Super Star":{
       "icon":"https://i.imgur.com/XGx97Q8.png"
+   },
+   "Kirby: Canvas Curse":{
+      "icon":"https://i.imgur.com/MZ1l9Rm.png"
    },
    "Kirby's Dream Land":{
       "icon":"https://i.imgur.com/ly0VVOn.png"
@@ -336,6 +360,9 @@
    "Mario Party 7":{
       "icon":"https://i.imgur.com/9Ih7ggi.png"
    },
+   "Mario + Rabbids: Kingdom Battle":{
+      "icon":"https://i.imgur.com/OrwRVSj.png"
+   },
    "Mario vs. Donkey Kong: Mini-Land Mayhem!":{
       "icon":"https://i.imgur.com/la43MV7.png",
       "short_name": "Mario vs DK: Mini-Land Mayhem"
@@ -347,8 +374,23 @@
       "icon":"https://i.imgur.com/cfdcJVT.png",
       "short_name": "Mega Man Battle Chip"
    },
+   "Mega Man Battle Network":{
+      "icon":"https://i.imgur.com/AwuTmJw.png"
+   },
+   "Mega Man Battle Network 2":{
+      "icon":"https://i.imgur.com/albtq43.png"
+   },
    "Mega Man Battle Network 3":{
       "icon":"https://i.imgur.com/g1VQR1N.png"
+   },
+   "Mega Man Battle Network 4":{
+      "icon":"https://i.imgur.com/SeYNv9Z.png"
+   },
+   "Mega Man Battle Network 5":{
+      "icon":"https://i.imgur.com/orFUypb.png"
+   },
+   "Mega Man Battle Network 6":{
+      "icon":"https://i.imgur.com/dTzKZe1.png"
    },
    "Mega Man X":{
       "icon":"https://i.imgur.com/B2BtFJ5.png"
@@ -430,6 +472,9 @@
    "Outer Wilds":{
       "icon":"https://i.imgur.com/7xj7aZj.png"
    },
+   "Overwatch 2":{
+      "icon":"https://i.imgur.com/bl2BUoz.png"
+   },
    "Pac-Man":{
       "icon":"https://i.imgur.com/v00nHJA.png"
    },
@@ -481,6 +526,9 @@
    },
    "Pokémon Black 2 & White 2":{
       "icon":"https://i.imgur.com/c5WIW1K.png"
+   },
+   "Pokémon Colosseum":{
+      "icon":"https://i.imgur.com/c9o6GNm.png"
    },
    "Pokémon Diamond, Pearl & Platinum":{
       "icon":"https://i.imgur.com/Ykk9fjh.png",
@@ -558,6 +606,9 @@
       "icon":"https://i.imgur.com/G5NaLu8.png",
       "short_name": "San Francisco Rush"
    },
+   "San Francisco Rush 2049":{
+      "icon":"https://i.imgur.com/as1JxD5.png"
+   },
    "Shadowgate":{
       "icon":"https://i.imgur.com/8EL6ySj.png"
    },
@@ -575,6 +626,10 @@
    "Shining Force: The Legacy of Great Intention":{
       "icon":"https://i.imgur.com/g6F6sAI.png",
       "short_name": "Shining Force"
+   },
+   "Shinobi III: Return of the Ninja Master":{
+      "icon":"https://i.imgur.com/0gkGUsp.png",
+      "short_name": "Shinobi III"
    },
    "Shovel Knight":{
       "icon":"https://i.imgur.com/omiKAkK.png"
@@ -798,6 +853,9 @@
    "ToeJam & Earl":{
       "icon":"https://i.imgur.com/ubGEgg8.png"
    },
+   "Tony Hawk's Pro Skater":{
+      "icon":"https://i.imgur.com/yQXCkLz.png"
+   },
    "Touhou Chiireiden ~ Subterranean Animism":{
       "icon":"https://i.imgur.com/TGbpxDH.png",
       "short_name": "Touhou 11"
@@ -818,6 +876,10 @@
       "icon":"https://i.imgur.com/uLohFDp.png",
       "short_name": "Touhou 12.3"
    },
+   "Touhou Hyouibana ~ Antinomy of Common Flowers":{
+      "icon":"https://i.imgur.com/BkSddN5.png",
+      "short_name": "Touhou 15.5"
+   },
    "Touhou Kaeidzuka ~ Phantasmagoria of Flower View":{
       "icon":"https://i.imgur.com/UAmNF6P.png",
       "short_name": "Touhou 9"
@@ -834,6 +896,10 @@
       "icon":"https://i.imgur.com/0f9Uu7j.png",
       "short_name": "Touhou 6"
    },
+   "Touhou Kouryudou ~ Unconnected Marketeers":{
+      "icon":"https://i.imgur.com/ZDsMCJ5.png",
+      "short_name": "Touhou 18"
+   },
    "Touhou Reiiden ~ The Highly Responsive to Prayers":{
       "icon":"https://i.imgur.com/u2BfhqJ.png",
       "short_name": "Touhou 1"
@@ -845,6 +911,10 @@
    "Touhou Tenkuushou ~ Hidden Star in Four Seasons":{
       "icon":"https://i.imgur.com/nQEnuoy.png",
       "short_name": "Touhou 16"
+   },
+   "Touhou Youyoumu ~ Perfect Cherry Blossom":{
+      "icon":"https://i.imgur.com/UsSPP1a.png",
+      "short_name": "Touhou 7"
    },
    "U.N. Squadron":{
       "icon":"https://i.imgur.com/lEe6LJM.png"
@@ -871,6 +941,9 @@
    "WarioWare, Inc.: Mega Microgame$!":{
       "icon":"https://i.imgur.com/gPyR1Tx.png",
       "short_name": "WarioWare: Mega Microgame"
+   },
+   "WarioWare: Twisted!":{
+      "icon":"https://i.imgur.com/dEnrAzt.png"
    },
    "Wave Race 64":{
       "icon":"https://i.imgur.com/ljvsi5r.png"
